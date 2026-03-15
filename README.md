@@ -69,4 +69,4 @@ Yüksek tahmin doğruluğu bu projenin önceliği değildi. Asıl hedef her değ
 1.338 kayıttan oluşuyor, 1 tekrar eden kayıt temizlendi. Değişkenler:
 `age`, `sex`, `bmi`, `children`, `smoker`, `region`, `charges`
 
-Kaynak: [Kaggle —medical-insurance-cost-dataset]([[https://www.kaggle.com/datasets/mirichoi0218/insurance](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset)](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset)
+Kaynak: [Kaggle — Medical Insurance Cost Dataset](https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset)
